@@ -1,0 +1,93 @@
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\appsettings.Development.json
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\appsettings.json
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\libman.json
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\University Student Management.exe
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\University Student Management.deps.json
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\University Student Management.runtimeconfig.json
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\University Student Management.runtimeconfig.dev.json
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\University Student Management.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\University Student Management.pdb
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Humanizer.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\System.Web.Mvc.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\System.Web.Razor.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\System.Web.Helpers.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\System.Web.WebPages.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.Exchange.WebServices.Auth.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.Exchange.WebServices.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\RepositoryLayer.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\StudentManagementBLL.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\StudentManagementDAL.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\StudentManagementEntity.dll
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\StudentManagementBLL.pdb
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\RepositoryLayer.pdb
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\StudentManagementDAL.pdb
+D:\A wordpress\university management app\backend\University Student Management\bin\Debug\net5.0\StudentManagementEntity.pdb
+D:\A wordpress\university management app\backend\University Student Management\obj\Debug\net5.0\University Student Management.csproj.AssemblyReference.cache
+D:\A wordpress\university management app\backend\University Student Management\obj\Debug\net5.0\University Student Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\A wordpress\university management app\backend\University Student Management\obj\Debug\net5.0\University Student Management.AssemblyInfoInputs.cache
+D:\A wordpress\university management app\backend\University Student Management\obj\Debug\net5.0\University Student Management.AssemblyInfo.cs
+D:\A wordpress\university management app\backend\University Student Management\obj\Debug\net5.0\University Student Management.csproj.CoreCompileInputs.cache
+D:\A wordpress\university management app\backend\University Student Management\obj\Debug\net5.0\University Student Management.MvcApplicationPartsAssemblyInfo.cs
+D:\A wordpress\university management app\backend\University Student Management\obj\Debug\net5.0\University Student Management.MvcApplicationPartsAssemblyInfo.cache
+D:\A wordpress\university management app\backend\University Student Management\obj\Debug\net5.0\University Student Management.sourcelink.json
+D:\A wordpress\university management app\backend\University Student Management\obj\Debug\net5.0\University Student Management.RazorTargetAssemblyInfo.cache
+D:\A wordpress\university management app\backend\University Student Management\obj\Debug\net5.0\scopedcss\bundle\University Student Management.styles.css
+D:\A wordpress\university management app\backend\University Student Management\obj\Debug\net5.0\staticwebassets\University Student Management.StaticWebAssets.Manifest.cache
+D:\A wordpress\university management app\backend\University Student Management\obj\Debug\net5.0\staticwebassets\University Student Management.StaticWebAssets.Pack.cache
+D:\A wordpress\university management app\backend\University Student Management\obj\Debug\net5.0\staticwebassets\msbuild.University Student Management.Microsoft.AspNetCore.StaticWebAssets.props
+D:\A wordpress\university management app\backend\University Student Management\obj\Debug\net5.0\staticwebassets\msbuild.build.University Student Management.props
+D:\A wordpress\university management app\backend\University Student Management\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.University Student Management.props
+D:\A wordpress\university management app\backend\University Student Management\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.University Student Management.props
+D:\A wordpress\university management app\backend\University Student Management\obj\Debug\net5.0\University Student Management.csproj.CopyComplete
+D:\A wordpress\university management app\backend\University Student Management\obj\Debug\net5.0\University Student Management.dll
+D:\A wordpress\university management app\backend\University Student Management\obj\Debug\net5.0\refint\University Student Management.dll
+D:\A wordpress\university management app\backend\University Student Management\obj\Debug\net5.0\University Student Management.pdb
+D:\A wordpress\university management app\backend\University Student Management\obj\Debug\net5.0\University Student Management.genruntimeconfig.cache
+D:\A wordpress\university management app\backend\University Student Management\obj\Debug\net5.0\ref\University Student Management.dll
